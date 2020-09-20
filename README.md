@@ -1,6 +1,6 @@
 ## Industrial Control System Security Research Project
 
-#### Title:  Western Interconnection Cyber Security and Mission Assurance 
+### Title:  Western Interconnection Cyber Security and Mission Assurance 
 
 
 I have included the full 3-part report and PowerPoint presentation
