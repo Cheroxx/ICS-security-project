@@ -3,7 +3,7 @@
 #### Title:  Western Interconnection Cyber Security and Mission Assurance 
 
 
-I have included the full 3-part report including PowerPoint presentation
+I have included the full 3-part report and PowerPoint presentation
 
 
 
